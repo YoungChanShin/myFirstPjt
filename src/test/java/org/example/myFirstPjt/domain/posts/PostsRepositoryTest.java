@@ -1,7 +1,5 @@
 package org.example.myFirstPjt.domain.posts;
 
-import org.example.myFirstPjt.domain.Posts;
-import org.example.myFirstPjt.domain.PostsRepository;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;

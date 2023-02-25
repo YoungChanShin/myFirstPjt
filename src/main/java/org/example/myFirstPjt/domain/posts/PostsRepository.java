@@ -1,4 +1,4 @@
-package org.example.myFirstPjt.domain;
+package org.example.myFirstPjt.domain.posts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

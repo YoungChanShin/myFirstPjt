@@ -1,7 +1,7 @@
 package org.example.myFirstPjt.web;
 
-import org.example.myFirstPjt.domain.Posts;
-import org.example.myFirstPjt.domain.PostsRepository;
+import org.example.myFirstPjt.domain.posts.Posts;
+import org.example.myFirstPjt.domain.posts.PostsRepository;
 import org.example.myFirstPjt.web.dto.PostsSaveRequestDto;
 import org.junit.After;
 import org.junit.Test;

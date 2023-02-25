@@ -3,7 +3,7 @@ package org.example.myFirstPjt.web.dto;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.example.myFirstPjt.domain.Posts;
+import org.example.myFirstPjt.domain.posts.Posts;
 
 @Getter
 @NoArgsConstructor
