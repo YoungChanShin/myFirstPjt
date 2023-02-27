@@ -1,5 +1,6 @@
 package org.example.myFirstPjt.domain.posts;
 
+import org.example.myFirstPjt.web.dto.PostsUpdateRequestDto;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -24,7 +25,7 @@ public class PostsRepositoryTest {
     }
 
     @Test
-    public void bring_posts(){
+    public void insert_post(){
         String title = "테스트 게시글";
         String content = "테스트 본문";
 
